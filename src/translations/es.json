@@ -1,0 +1,294 @@
+{
+  "hero": {
+    "title": "DRM Soluciones de Software",
+    "subtitle": "Creamos el sistema para tu negocio o empresa, comenza a medir tus ganacias y potenciar tus ingresos. Tambien te ayudamos a potenciar tu presencia online.",
+    "ctaText": "Descubre más",
+    "ctaLink": "/#services",
+    "imageUrl": "/logo/logoColor.png",
+    "btnText": "Contáctanos",
+    "navText": [
+      {
+        "text": "Inicio"
+      },
+      {
+        "text": "Servicios"
+      },
+      {
+        "text": "Tecnologias"
+      },
+      {
+        "text": "Proyectos"
+      },
+      {
+        "text": "Acerca de"
+      }
+
+    ]
+  },
+  "services": [
+    {
+      "title": "Paginas web",
+      "description": "Creamos sistemas web rápidos, seguros y totalmente funcionales para tu negocio o empresa.",
+      "price": "Desde L5,500 a L30,000",
+      "pagetypeList": [
+        {
+          "title": "Restaurantes"
+        },
+        {
+          "title": "Abarroterias"       
+         },
+        {
+          "title": "Farmacias"
+        },
+        {
+          "title": "Pulperias"
+        },
+        {
+          "title": "Paginas publicitarias"
+        }
+      ],
+      "imgGalery": [
+        {
+          "url": "/images/websites/img1.jpeg",
+          "alt": "",
+          "Title": "Web Site Personal",
+          "texto": "Crea tu sitio personal para potenciar tu marca personal o profesional."
+        },
+        {
+          "url": "/images/websites/img.jpeg",
+          "Title": "Blog",
+          "texto": "Puedes tener tu propio blog personalizado para compartir tus ideas y experiencias.",
+          "alt": ""
+        },
+        {
+          "url": "/images/websites/img3.jpeg",
+          "Title": "Aplication Web",
+          "texto": "Necesitas una aplicación web para tu negocio? podemos construir la mejor opción para satisfacer tus necesidades.",
+          "alt": ""
+        },
+        {
+          "url": "/images/websites/port3.jpeg",
+          "Title": "Personal portfolio",
+          "texto": "",
+          "alt": ""
+        },
+        {
+          "url": "/images/websites/port2.jpeg",
+          "Title": "Personal portfolio",
+          "texto": "",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "E-commerce",
+      "description": "Soluciones personalizadas de comercio electrónico para potenciar tu negocio.",
+      "price": "Desde L18,000 a L50,000",
+      "pagetypeList": [
+        {
+          "title": "Tiendas en linea"
+        },
+        {
+          "title": "Venta de articulos en general"
+        },
+        {
+          "title": "Productos Electronicos"
+        }
+      ],      
+      "imgGalery": [
+        {
+          "url": "/images/ecommerce/ec1.jpeg",
+          "alt": "",
+          "Title": "C2C (Cliente a Cliente)",
+          "texto": "Vende tus productos a clientes o personas individuales mediante tu propia plataforma e incrementa tu margen de ganacias."
+        },
+        {
+          "url": "/images/ecommerce/ec2.jpeg",
+          "Title": "B2C (Negocio a Cliente)",
+          "texto": "Ofrecemos la mejor solucion para que tu empresa llegue a mas clientes potenciando tu presencia online.",
+          "alt": ""
+        },
+        {
+          "url": "/images/ecommerce/ec3.jpeg",
+          "Title": "B2B (Negocio a Negocio)",
+          "texto": "Brinda informacion acerca de tus productos o servicios de manera clara, precisa y profesional.",
+          "alt": ""
+        },
+        {
+          "url": "/images/ecommerce/ec4.jpeg",
+          "Title": "B2B (Negocio a Negocio)",
+          "texto": "Brinda informacion acerca de tus productos o servicios de manera clara, precisa y profesional.",
+          "alt": ""
+        }        
+      ]
+    },
+    {
+      "title": "Backend Services",
+      "description": "Arquitecturas backend robustas y optimizadas, desarrollamos APIs escalables  para conectar tus plataformas.",
+      "price": "Desde L26,000 a L80,000",
+      "pagetypeList": [
+        {
+          "title": "Api Rest || FastApi"
+        },
+        {
+          "title": "Procesos ETL, (extraccion, procesamiento y carga de datos)"
+        },
+        {
+          "title": "Generacion de Reporteria, Dashboards y KPIs"
+        }
+      ],       
+      "imgGalery": [
+        {
+          "url": "/images/backend/bk2.jpeg",
+          "Title": "",
+          "texto": "",
+          "alt": ""
+        },
+        {
+          "url": "/images/backend/bk1.jpeg",
+          "Title": "",
+          "texto": "",
+          "alt": ""
+        }        
+
+      ]
+    }
+  ],
+"servicetext": {
+  "name": "Servicios",
+  "subtitle": "Conoce mas acerca de nuestros servicios y soluciones para potencion tu Negocio | Empresa.",
+  "btnText": "Volver a Servicios",
+  "featuresTitle": "Características y Categorías",
+  "pricingTitle": "Precios",
+  "galleryTitle": "Galería",
+  "discussButton": "Discutir este Servicio",
+  "notFoundTitle": "Servicio No Encontrado",
+  "notFoundSubtitle": "El servicio que buscas no existe."
+},
+  "projects": {
+    "name": "Proyectos",
+    "subtitle": "Puedes ver nuestro trabajo a través de la experiencia de nuestros clientes.",
+    "list": [
+      {
+        "title": "Kelly Tax Pro",
+        "description": "Compañia de recoleccion de taxes EEUU",
+        "url": "https://kellytaxpro.com/",
+        "imageUrl": "images/logo.png"
+      },
+      {
+        "title": "Power Construction",
+        "description": "Compañia de construccion EEUU",
+        "url": "https://davidpowerconstruction.com/",
+        "imageUrl": "images/powerconstr.png"
+      },      
+      {
+        "title": "Innova System",
+        "description": "Sistema para emision de examenes medicos HN",
+        "url": "",
+        "imageUrl": "images/logocemep.png"
+      },
+      {
+        "title": "Personal CV",
+        "description": "Curriculum web personalizado",
+        "url": "https://drm-cv-proyect.vercel.app/",
+        "imageUrl": "images/logoDR.png"
+      }
+    ]
+  },
+"technologies": [
+  {
+    "name": "Python",
+    "icon": "🐍",
+    "description": "Lenguaje de programación versátil para desarrollo backend, procesamiento de datos y automatización con excelente rendimiento y legibilidad."
+  },
+  {
+    "name": "FastAPI",
+    "icon": "⚡",
+    "description": "Framework web moderno y rápido para construir APIs, con documentación automática, validación de tipos y alto rendimiento."
+  },
+  {
+    "name": "React",
+    "icon": "⚛️",
+    "description": "Librería de JavaScript líder para construir interfaces de usuario dinámicas e interactivas con una arquitectura basada en componentes."
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "🐘",
+    "description": "Base de datos relacional de código abierto avanzada, con potentes características para consultas complejas e integridad de datos."
+  },
+  {
+    "name": "Oracle",
+    "icon": "🔶",
+    "description": "Sistema de gestión de bases de datos de nivel empresarial para aplicaciones de misión crítica que requieren máxima fiabilidad y rendimiento."
+  },
+  {
+    "name": "Data Analytics",
+    "icon": "📊",
+    "description": "Análisis de datos brutos para encontrar tendencias y responder preguntas, permitiendo tomar decisiones basadas en datos para el crecimiento del negocio."
+  }
+],
+  "techDesc": {
+    "text": "Tecnologías",
+    "description": "En DRM Soluciones de Software utilizamos tecnologías modernas para garantizar soluciones eficientes y modernas."
+  },
+  "SocialNetworks": {
+    "contact": "Contáctanos",
+    "subtitleContact": "Envíanos un mensaje y nos pondremos en contacto contigo lo antes posible",
+    "name": "Redes Sociales",
+    "subtitle": "No dudes en contactarnos los siguientes canales:",
+    "list": [
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/50494472095",
+        "imageUrl": "/images/whatsappGreen.png"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/david-rosales-mejia-162959156/",
+        "imageUrl": "/images/linkedin.png"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@DRMSoftwareSolutions",
+        "imageUrl": "/images/youtubeImage.png"
+      }
+    ],
+    "formData": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje",
+      "btnText": "Enviar",
+      "urlService": "",
+      "methodService": "POST",
+      "ContentType": "application/json",
+      "Athorization": "",
+      "emailTo": "drosalesm204@gmail.com"
+    }
+  },
+  "contact": {
+    "title": "Contactanos",
+    "subtitle": "Elige cómo deseas comunicarte con nosotros:",
+    "phone": "+50494472095",
+    "whatsapp": "https://wa.me/50494472095",
+    "call": "Llamar Ahora",
+    "whatsappText": "WhatsApp"
+  },
+  "founder": {
+    "name": "David Rosales Mejía",
+    "role": "Fundador & CEO",
+    "description": "Con más de 10 años de experiencia en el desarrollo de software,David ha liderado múltiples proyectos exitosos en diversas industrias principalmente en el area de telecomunicaciones. Apasionado por la innovación y la tecnología, fundó DRM Soluciones Digitales con el propósito de ofrecer soluciones tecnológicas para potenciar tu negocio.",
+    "imageUrl": "/images/me2.JPEG",
+    "socials": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/david-rosales-mejia-162959156/",
+        "icon": "/images/linkedin.png"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/yourgithubprofile",
+        "icon": "/images/github.png"
+      }
+    ]
+  }
+}

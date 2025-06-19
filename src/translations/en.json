@@ -1,0 +1,287 @@
+{
+  "hero": {
+    "title": "DRM Software Solutions",
+    "subtitle": "We create the website for your business or company, start boosting your online presence.",
+    "ctaText": "Descubre más",
+    "ctaLink": "/#services",
+    "imageUrl": "/logo/logoColor.png",
+    "btnText": "Contact us",
+    "navText": [
+      {
+        "text": "Home"
+      },
+      {
+        "text": "Services"
+      },
+      {
+        "text": "Technologies"
+      },
+      {
+        "text": "Projects"
+      },
+      {
+        "text": "About"
+      }
+
+    ]
+  },
+  "services": [
+    {
+      "title": "Web Sites",
+      "description": "We build fast, secure and fully optimized websites for SEO.", 
+      "price": "From $200 to $1,000",
+      "pagetypeList": [
+        {
+          "title": "Pharmacies"
+        },
+        {
+          "title": "Restaurants"
+        },
+        {
+          "title": "Groceries"
+        },
+        {
+          "title": "Stores"
+        },
+        {
+          "title": "Publicity pages"
+        }
+      ],      
+      "imgGalery": [
+        {
+          "url": "/images/websites/img1.jpeg",
+          "alt": "",
+          "Title": "Personal web site",
+          "texto": "Build your personal site to boost your personal or professional brand."
+        },
+        {
+          "url": "/images/websites/img.jpeg",
+          "Title": "Blog",
+          "texto": "You can have your own personalized blog to share your ideas and experiences.",
+          "alt": ""
+        },
+        {
+          "url": "/images/websites/img3.jpeg",
+          "Title": "Web Application",
+          "texto": "Need for a web application? we can build the best option to fit your needs.",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "title": "E-commerce",
+      "description": "Personalized solutions for e-commerce to boost your business.",
+      "price": "From $700 to $2,000",    
+      "pagetypeList": [
+        {
+          "title": "Online clothing stores"
+        },
+        {
+          "title": "Sale of products and articles in general"
+        },
+        {
+          "title": "Sale of beauty products"
+        },
+        {
+          "title": "Electronic and technology products"
+        }
+      ],       
+      "imgGalery": [
+        {
+          "url": "/images/ecommerce/ec1.jpeg",
+          "alt": "",
+          "Title": "C2C (Customer to Customer)",
+          "texto": "Sell your products to customers or individuals through your own platform and increase your profit margin."
+        },
+        {
+          "url": "/images/ecommerce/ec2.jpeg",
+          "Title": "B2C (Business to Customer)",
+          "texto": "We offer the best solution for your company to reach more customers by boosting your online presence.",
+          "alt": ""
+        },
+        {
+          "url": "/images/ecommerce/ec3.jpeg",
+          "Title": "B2B (Business to Business)",
+          "texto": "Provide information about your products or services in a clear, precise and professional manner.",
+          "alt": ""
+        },
+        {
+          "url": "/images/ecommerce/ec4.jpeg",
+          "Title": "B2B (Business to Business)",
+          "texto": "Provide information about your products or services in a clear, precise and professional manner.",
+          "alt": ""
+        }        
+      ]
+    },
+    {
+      "title": "Backend Services",
+      "description": "Backend Architecture robust and optimized, we develop scalable APIs to connect your platforms.",
+      "price": "From $1000 to $3,000",
+      "pagetypeList": [
+        {
+          "title": "Api Rest || FastApi",
+          "icon": "FaCode"
+        },
+        {
+          "title": "ETL Processes, (extract, processing and loading of data)",
+          "icon": "FaDatabase"
+        },
+        {
+          "title": "Generation of Reporting, Dashboards and KPIs",
+          "icon": "FaChartLine"
+        }
+      ],      
+      "imgGalery": [
+        {
+          "url": "/images/backend/bk2.png",
+          "Title": "PYTHON || Rest Services",
+          "texto": "We build your backend integration to speed up development and delivery times for your company.",
+          "alt": ""
+        },
+        {
+          "url": "/images/backend/bk1.png",
+          "Title": "ETL Services",
+          "texto": "We automate your data extraction process to improve your company's efficiency.",
+          "alt": ""
+        }        
+      ]
+    }
+  ],
+"servicetext": {
+  "name": "Services",
+  "subtitle": "We offer a wide range of services to help you grow your business. From web development to backend services.",
+  "btnText": "Back to Services",
+  "featuresTitle": "Features & Categories",
+  "pricingTitle": "Pricing",
+  "galleryTitle": "Gallery",
+  "discussButton": "Discuss This Service",
+  "notFoundTitle": "Service Not Found",
+  "notFoundSubtitle": "The service you are looking for does not exist."
+},
+  "projects": {
+    "name": "Proyects",
+    "subtitle": "Check out our work through our customer experiences.",
+    "list": [
+      {
+        "title": "Kelly Tax Pro",
+        "description": "Tax Company, USA",
+        "url": "https://kellytaxpro.com/",
+        "imageUrl": "images/logo.png"
+      },
+      {
+        "title": "Power Construction",
+        "description": "Construction Company, USA",
+        "url": "https://davidpowerconstruction.com/",
+        "imageUrl": "images/powerconstr.png"
+      },        
+      {
+        "title": "Innova System",
+        "description": "Medical System HN",
+        "url": "",
+        "imageUrl": "images/logocemep.png"
+      },
+      {
+        "title": "Personal CV",
+        "description": "Personal portfolio and curriculum",
+        "url": "https://drm-cv-proyect.vercel.app/",
+        "imageUrl": "images/logoDR.png"
+      }
+    ]
+  },
+"technologies": [
+  {
+    "name": "Python",
+    "icon": "🐍",
+    "description": "Versatile programming language for backend development, data processing, and automation with excellent performance and readability."
+  },
+  {
+    "name": "FastAPI",
+    "icon": "⚡",
+    "description": "Modern, fast web framework for building APIs with automatic documentation, type validation, and high performance."
+  },
+  {
+    "name": "React",
+    "icon": "⚛️",
+    "description": "Leading JavaScript library for building dynamic, interactive user interfaces with a component-based architecture."
+  },
+  {
+    "name": "PostgreSQL",
+    "icon": "🐘",
+    "description": "Advanced open-source relational database with powerful features for complex queries and data integrity."
+  },
+  {
+    "name": "Oracle",
+    "icon": "🔶",
+    "description": "Enterprise-grade database management system for mission-critical applications requiring maximum reliability and performance."
+  },
+  {
+    "name": "Data Analytics",
+    "icon": "📊",
+    "description": "Analyzing raw data to find trends and answer questions, enabling data-driven decisions for business growth."
+  }
+],
+  "techDesc": {
+    "text": "Technologies",
+    "description": "In DRM solutions we use the best technologies to secure robust performance and scalability."
+  },
+  "SocialNetworks": {
+    "contact": "",
+    "subtitleContact": "",
+    "name": "Contact US",
+    "subtitle": "Wi'll be glad to help you, contact us through the following channels:",
+    "list": [
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/50494472095",
+        "imageUrl": "/images/whatsappGreen.png"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/david-rosales-mejia-162959156/",
+        "imageUrl": "/images/linkedin.png"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/@DRMSoftwareSolutions",
+        "imageUrl": "/images/youtubeImage.png"
+      }      
+    ],
+    "formData": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje",
+      "btnText": "Enviar",
+      "urlService": "https://api.resend.com/emails",
+      "methodService": "POST",
+      "ContentType": "application/json",
+      "Athorization": "Bearer re_LhLpk971_4upiuZT9KWrkN1BCwKhXYGZk",
+      "emailTo": "drosalesm204@gmail.com"
+    }
+  },
+  "contact": {
+    "title": "Contact US",
+    "subtitle": "Choose how to contact us:",
+    "phone": "+50494472095",
+    "whatsapp": "https://wa.me/50494472095",
+    "call": "Call now",
+    "whatsappText": "WhatsApp"
+  },
+  "founder": {
+    "name": "David Rosales Mejía",
+    "role": "Founder & CEO",
+    "description": "With more than 10 years of experience in software development, David has led multiple successful projects in various industries mainly in the telecommunications area. Passionate about innovation and technology, he founded DRM Soluciones Digitales with the purpose of offering technological solutions to boost your business.",
+    "imageUrl": "/images/me2.JPEG",
+    "socials": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/david-rosales-mejia-162959156/",
+        "icon": "images/linkedin.png"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/drosalesm",
+        "icon": "/images/github.png"
+      }     
+    ]
+  } 
+}
